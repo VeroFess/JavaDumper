@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Premain-Class: com.binklac.tools.javadumper.JavaDumper
+Main-Class: com.binklac.tools.javadumper.JavaDumper
+Can-Redefine-Classes: true
